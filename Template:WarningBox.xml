@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>WikiToLearn - collaborative textbooks</sitename>
+    <dbname>metawikitolearn</dbname>
+    <base>http://meta.wikitolearn.org/Main_Page</base>
+    <generator>MediaWiki 1.26.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="case-sensitive">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Project</namespace>
+      <namespace key="5" case="first-letter">Project talk</namespace>
+      <namespace key="6" case="case-sensitive">File</namespace>
+      <namespace key="7" case="case-sensitive">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="90" case="first-letter">Thread</namespace>
+      <namespace key="91" case="first-letter">Thread talk</namespace>
+      <namespace key="92" case="first-letter">Summary</namespace>
+      <namespace key="93" case="first-letter">Summary talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Template:WarningBox</title>
+    <ns>10</ns>
+    <id>26</id>
+    <revision>
+      <id>137</id>
+      <parentid>136</parentid>
+      <timestamp>2015-11-16T14:08:08Z</timestamp>
+      <contributor>
+        <username>Roopi</username>
+        <id>6</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="260">&lt;includeonly&gt;&lt;div class=&quot;alert alert-warning&quot;&gt;{{{content}}}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Category:Official Templates]]
+Usage:
+
+&lt;code&gt;&lt;nowiki&gt;{{WarningBox|content=This is a warning!}}&lt;/nowiki&gt;&lt;/code&gt;
+
+Result:
+{{WarningBox|content=This is a warning!}}
+&lt;/noinclude&gt;</text>
+      <sha1>cj1x4ynky0ha4axyqqtnse3t6uhr7rx</sha1>
+    </revision>
+  </page>
+</mediawiki>
